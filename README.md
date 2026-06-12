@@ -113,4 +113,8 @@ streamlit run app.py
 
 Master's in Data Science & Analytics with AI
 
+<<<<<<< HEAD
 IT Vedant
+=======
+IT Vedant
+>>>>>>> 1a9a422 (Initial commit with code and README)
